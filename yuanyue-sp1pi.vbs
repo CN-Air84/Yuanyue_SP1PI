@@ -1,5 +1,5 @@
 
-' Windows 7 SP1 PatcherInstaller
+' YuanYue sp1pi
 ' Compatible only with Windows 7 x64
 
 Option Explicit
