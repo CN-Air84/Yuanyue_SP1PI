@@ -5,6 +5,10 @@ Yuanyue Sp1pi/源悦-石皮皮
 
 一个自动补丁安装器，专用于[源悦TTS程序。](https://github.com/CN-Air84/YuanYue-TTS/)。
 
+
+
+大部分代码支持几乎所有Win7及以后的系统，但installer.vbs里写了限制，只能在win7 x64系统中使用。
+
 你可以任意修改程序，使程序支持任意32位系统/Win8/Win8.1/Win10/……。
 
 许可证是我瞎选的，不用管。
@@ -15,3 +19,4 @@ Yuanyue Sp1pi/源悦-石皮皮
 
 短时间内石皮皮不会再有更新了。
 
+exe编译使用bat2exe、vbs2exe、单文件制作程序等。
